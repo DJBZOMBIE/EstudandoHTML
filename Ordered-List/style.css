@@ -1,0 +1,55 @@
+html{
+    margin:0px;
+    padding:0px;
+    float:none;
+    background-color: blue;
+}
+
+h1{
+    padding-bottom: 20px;
+}
+body{
+    padding:20px 30px;
+    margin:auto;
+    background-color: orangered;
+    width: 1080px;
+    height: 720px;
+    border-style: dotted solid;
+    border-radius:25px;
+}
+
+ol.menu ol li{
+    width: 100%;
+    list-style: none;
+    float:left;
+    background-color: white;
+    margin:2px;
+    padding:3px 5px;
+    
+    margin: 2px 2px;
+    display: block;
+    background-color: gold;
+    color: blue;
+    text-decoration: none;
+    border: solid 2px;
+    border-radius: 4px;
+}
+
+ol.menu li {
+    display:inline;
+}
+
+ol.menu li a{
+    padding: 1px 15px;
+    margin: 2px 2px;
+    display: block;
+    background-color: gold;
+    color: blue;
+    text-decoration: none;
+    border: solid 2px;
+    border-radius: 4px;
+
+}
+.submenu li{
+    
+}
